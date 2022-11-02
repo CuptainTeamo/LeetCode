@@ -1,4 +1,4 @@
-//!!!!!!Dont convert string to an number because the number could exceed the max value of this data type!!!!!!!!!!
+//!!!!!!Dont convert string to an number because the number could exceed the max value of this data type OR USE BIGINT!!!!!!!!!!
 
 // How this work
 // Get the last digit of array, add one to it, put it to a new array
